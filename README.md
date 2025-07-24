@@ -1,2 +1,2 @@
 # spotifyClone
-A spotify clone allowing users to upload and listen to music
+A spotify clone allowing users to listen to music
