@@ -13,6 +13,7 @@ const App = () => {
 
       <div className='h-[10%]'>
         <Player />
+        <App/>
       </div>
     </div>
   )

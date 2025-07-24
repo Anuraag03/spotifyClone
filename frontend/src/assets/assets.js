@@ -121,7 +121,8 @@ export const songsData = [
         image: img1,
         file:song1,
         desc:"Put a smile on your face with these happy tunes",
-        duration:"3:00"
+        duration:"3:00",
+        date: "2025-07-24"
     },
     {
         id:1,
@@ -129,7 +130,8 @@ export const songsData = [
         image: img2,
         file:song2,
         desc:"Put a smile on your face with these happy tunes",
-        duration:"2:20"
+        duration:"2:20",
+        date: "2025-07-23"
     },
     {
         id:2,
@@ -137,7 +139,8 @@ export const songsData = [
         image: img3,
         file:song3,
         desc:"Put a smile on your face with these happy tunes",
-        duration:"2:32"
+        duration:"2:32",
+        date: "2025-07-22"
     },
     {
         id:3,
@@ -145,7 +148,8 @@ export const songsData = [
         image: img4,
         file:song1,
         desc:"Put a smile on your face with these happy tunes",
-        duration:"2:50"
+        duration:"2:50",
+        date: "2025-07-21"
     },
     {
         id:4,
@@ -153,15 +157,17 @@ export const songsData = [
         image: img5,
         file:song2,
         desc:"Put a smile on your face with these happy tunes",
-        duration:"3:10"
+        duration:"3:10",
+        date: "2025-07-20"
     },
     {
         id:5,
         name: "Song Six",
-        image: img14    ,
+        image: img14,
         file:song3,
         desc:"Put a smile on your face with these happy tunes",
-        duration:"2:45"
+        duration:"2:45",
+        date: "2025-07-19"
     },
     {
         id:6,
@@ -169,7 +175,8 @@ export const songsData = [
         image: img7,
         file:song1,
         desc:"Put a smile on your face with these happy tunes",
-        duration:"2:18"
+        duration:"2:18",
+        date: "2025-07-18"
     },
     {
         id:7,
@@ -177,6 +184,7 @@ export const songsData = [
         image: img12,
         file:song2,
         desc:"Put a smile on your face with these happy tunes",
-        duration:"2:35"
+        duration:"2:35",
+        date: "2025-07-17"
     }
 ]
