@@ -4,7 +4,6 @@
   "version": "0.0.0",
   "type": "module",
   "homepage": "https://anuraag03.github.io/apotifyClone",
-
   "scripts": {
     "dev": "vite",
     "build": "vite build",
